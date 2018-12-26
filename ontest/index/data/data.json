@@ -1,0 +1,242 @@
+[
+    {
+        "name": "../../img/cover/shinobu1.jpg", 
+        "caption": "忍野忍",
+        "min": 1,
+        "max": 11
+    },
+    {
+        "name": "../../img/cover/shinobu2.jpg", 
+        "caption": "忍野忍",
+        "min": 12,
+        "max": 56
+    },
+    {
+        "name": "../../img/cover/shinobu3.jpg", 
+        "caption": "忍野忍",
+        "min": 57,
+        "max": 100
+    },
+    {
+        "name": "../../img/cover/eriri.jpg", 
+        "caption": "英梨梨",
+        "min": 1,
+        "max": 80
+    },
+    {
+        "name": "../../img/cover/ll.jpg", 
+        "caption": "南小鸟",
+        "min": 1,
+        "max": 6
+    },
+    {
+        "name": "../../img/cover/yumeko.jpg", 
+        "caption": "蛇喰梦子",
+        "min": 1,
+        "max": 17
+    },
+    {
+        "name": "../../img/cover/sagiri.jpg", 
+        "caption": "和泉纱雾",
+        "min": 1,
+        "max": 62
+    },
+    {
+        "name": "../../img/cover/madoka.jpg", 
+        "caption": "鹿目圆",
+        "min": 1,
+        "max": 24
+    },
+    {
+        "name": "../../img/cover/saratoga.jpg", 
+        "caption": "萨拉托加",
+        "min": 1,
+        "max": 7
+    },
+    {
+        "name": "../../img/cover/hachikuji.jpg", 
+        "caption": "八九寺真宵",
+        "min": 1,
+        "max": 55
+    },
+    {
+        "name": "../../img/cover/cirno.jpg", 
+        "caption": "琪露诺",
+        "min": 1,
+        "max": 19
+    },
+    {
+        "name": "../../img/cover/jk1.jpg", 
+        "caption": "JK",
+        "min": 1,
+        "max": 8
+    },
+    {
+        "name": "../../img/cover/daily.jpg", 
+        "caption": "雨季",
+        "min": 1,
+        "max": 16
+    },
+    {
+        "name": "../../img/cover/sakura.jpg", 
+        "caption": "桜の舞",
+        "min": 1,
+        "max": 12
+    },
+    {
+        "name": "../../img/cover/jk2.jpg", 
+        "caption": "夕焼け桟橋と少女",
+        "min": 1,
+        "max": 12
+    },
+    {
+        "name": "../../img/cover/jk3.jpg", 
+        "caption": "薔薇と少女",
+        "min": 1,
+        "max": 31
+    },
+    {
+        "name": "../../img/cover/angel.jpg", 
+        "caption": "夏季物语",
+        "min": 1,
+        "max": 17
+    },
+    {
+        "name": "../../img/cover/jk14.jpg", 
+        "caption": "海物语",
+        "min": 1,
+        "max": 11
+    },
+    {
+        "name": "../../img/cover/mori.jpg", 
+        "caption": "森之仙女",
+        "min": 1,
+        "max": 9
+    },
+    {
+        "name": "../../img/cover/jk4.jpg", 
+        "caption": "極東の黄昏",
+        "min": 1,
+        "max": 9
+    },
+    {
+        "name": "../../img/cover/huaniao.jpg", 
+        "caption": "海物语",
+        "min": 1,
+        "max": 23
+    },
+    {
+        "name": "../../img/cover/train.jpg", 
+        "caption": "旧时光",
+        "min": 1,
+        "max": 11
+    },
+    {
+        "name": "../../img/cover/jk5.jpg", 
+        "caption": "这里，是到达天空的地方",
+        "min": 1,
+        "max": 11
+    },
+    {
+        "name": "../../img/cover/natsu.jpg", 
+        "caption": "夏天·波子汽水的颜色",
+        "min": 1,
+        "max": 24
+    },
+    {
+        "name": "../../img/cover/jk6.jpg", 
+        "caption": "下课后的落日色彩",
+        "min": 1,
+        "max": 32
+    },
+    {
+        "name": "../../img/cover/jk7.jpg", 
+        "caption": "车轮上的秋天",
+        "min": 1,
+        "max": 12
+    },
+    {
+        "name": "../../img/cover/jk8.jpg", 
+        "caption": "一日船長、出発",
+        "min": 1,
+        "max": 38
+    },
+    {
+        "name": "../../img/cover/daily2.jpg", 
+        "caption": "秋季物语",
+        "min": 1,
+        "max": 19
+    },
+    {
+        "name": "../../img/cover/daily3.jpg", 
+        "caption": "青青园中葵，朝露待日晞",
+        "min": 1,
+        "max": 4
+    },
+    {
+        "name": "../../img/cover/daily4.jpg", 
+        "caption": "贝壳邂逅",
+        "min": 1,
+        "max": 18
+    },
+    {
+        "name": "../../img/cover/jk9.jpg", 
+        "caption": "无边孤独，但也无边自由",
+        "min": 1,
+        "max": 14
+    },
+    {
+        "name": "../../img/cover/jk10.jpg", 
+        "caption": "追逐一缕秋意，邂逅这份嫣然。",
+        "min": 1,
+        "max": 13
+    },
+    {
+        "name": "../../img/cover/halloween.jpg", 
+        "caption": "魔女之夜",
+        "min": 1,
+        "max": 34
+    },
+    {
+        "name": "../../img/cover/halloween2.jpg", 
+        "caption": "魔女之夜",
+        "min": 1,
+        "max": 9
+    },
+    {
+        "name": "../../img/cover/jk11.jpg", 
+        "caption": "海之月",
+        "min": 1,
+        "max": 15
+    },
+    {
+        "name": "../../img/cover/daily5.jpg", 
+        "caption": "冬日里的暖阳",
+        "min": 1,
+        "max": 34
+    },
+    {
+        "name": "../../img/cover/jk12.jpg", 
+        "caption": "秋色乐园",
+        "min": 1,
+        "max": 20
+    },
+    {
+        "name": "../../img/cover/daily6.jpg", 
+        "caption": "暖冬",
+        "min": 1,
+        "max": 9
+    },
+    {
+        "name": "../../img/cover/jk13.jpg", 
+        "caption": "JK",
+        "min": 1,
+        "max": 38
+    },
+    {
+        "name": "../../img/cover/self.jpg", 
+        "caption": "罪音子",
+        "min": 1,
+        "max": 129
+    }
+]
